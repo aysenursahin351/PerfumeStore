@@ -1,0 +1,38 @@
+MARC JACOBS,https://cdn.akakce.com/marc-jacobs/marc-jacobs-perfect-edp-100-ml-kadin-z.jpg,price,Price ($),64.0,10,Floral fragrance,50,W,Perfect
+CAROLINA HERRERA,https://productimages.hepsiburada.net/s/1/500/9490354864178.jpg,price,Price ($),52.0,9,Oriental fragrance,30,W,Good Girl
+CALVIN KLEIN,https://productimages.hepsiburada.net/s/25/500/10104532992050.jpg,price,Price ($),28.99,10,Citrus Scent,100,W,CK One
+DIOR,https://productimages.hepsiburada.net/s/19/1500/9837342490674.jpg,price,Price ($),70.0,10,woody,60,M,SAUVAGE
+HUGO BOSS,https://productimages.hepsiburada.net/s/11/1500/9005548109874.jpg,price,Price ($),44.9,10,oriental,75,M,Boss Bottled Night
+RALPH LAUREN,https://productimages.hepsiburada.net/s/0/1500/9454916010034.jpg,price,Price ($),42.9,10,aromatic,100,M,Polo
+CHANEL,https://productimages.hepsiburada.net/s/7/500/9056903331890.jpg,price,Price ($),81.0,10,floral,90,M,BLUE DE CHANEL
+DIESEL,https://productimages.hepsiburada.net/s/20/1500/9873800527922.jpg,price,Price ($),46.9,10,fresh,80,M,ONLY THE BRAVE
+CHANEL,https://productimages.hepsiburada.net/s/11/500/9056901627954.jpg,price,Price ($),62.0,10,Woody fragrance,35,W,N°5
+VERA WANG,https://productimages.hepsiburada.net/s/18/375/9793016004658.jpg,price,Price ($),20.99,10,Oriental fragrance,100,W,Princess
+MARC JACOBS,https://productimages.hepsiburada.net/s/11/375/9048307761202.jpg,price,Price ($),37.99,10,Floral fragrance,50,W,Dot
+PACO RABANNE,https://productimages.hepsiburada.net/s/26/500/10165960409138.jpg,price,Price ($),49.0,10,Floral fragrance,30,W,Olympea Blossom
+TOM FORD,https://productimages.hepsiburada.net/s/20/1500/9897066725426.jpg,price,Price ($),61.0,10,Oriental fragrance,30,W,Black Orchid
+PACO RABANNE,https://productimages.hepsiburada.net/s/1/500/9522947751986.jpg,price,Price ($),51.0,10,oriental,50,M,Invictus Victory 
+CHANEL,https://productimages.hepsiburada.net/s/31/375/10334118838322.jpg,price,Price ($),61.0,10,floral,60,M,ALLURE HOMME SPORT
+Burberry,https://productimages.hepsiburada.net/s/7/500/9014474768434.jpg,price,Price ($),28.9,10,aromatic,100,M,Touch
+ARMANI,https://productimages.hepsiburada.net/s/11/375/9015180132402.jpg,price,Price ($),72.0,7,floral,75,M,Code
+CAROLINA HERRERA,https://productimages.hepsiburada.net/s/31/500/10334139318322.jpg,price,Price ($),55.0,9,oriental,80,M,Bad Boy
+MONTBLANC,https://productimages.hepsiburada.net/s/31/1500/10349454655538.jpg,price,Price ($),33.0,10,fresh,50,M,Explorer
+LACOSTE,https://productimages.hepsiburada.net/s/20/1500/9897067282482.jpg,price,Price ($),32.9,10,aromatic,50,M,Red
+CALVIN KLEIN,https://productimages.hepsiburada.net/s/6/1500/9717071904818.jpg,price,Price ($),28.9,10,oriental,75,M,CK One
+YVES SAINT LAURENT,https://productimages.hepsiburada.net/s/72/200/110000013383158.jpg,price,Price ($),72.9,10,aromatic,100,M,Y Le Parfum
+DAVIDOFF,https://productimages.hepsiburada.net/s/6/500/9717071872050.jpg,price,Price ($),27.9,10,floral,75,M,Cool Water Man
+ARMANI,https://productimages.hepsiburada.net/s/26/500/10165890383922.jpg,price,Price ($),29.9,7,aromatic,100,M,Diamonds
+CALVIN KLEIN,https://productimages.hepsiburada.net/s/3/375/9619778633778.jpg,price,Price ($),29.9,10,fresh,60,M,CK IN2U
+VERSACE,https://productimages.hepsiburada.net/s/6/375/9717071609906.jpg,price,Price ($),40.0,10,oriental,40,M,Eros
+PACO RABANNE,https://productimages.hepsiburada.net/s/1/1500/9522947620914.jpg,price,Price ($),51.0,10,fresh,50,M,1 Million
+CHANEL,https://productimages.hepsiburada.net/s/8/375/9056901333042.jpg,price,Price ($),62.0,10,Oriental fragrance,35,W,COCO MADEMOISELLE
+ARMANI,https://productimages.hepsiburada.net/s/7/500/9763948003378.jpg,price,Price ($),43.5,7,Oriental fragrance,30,W,Diamonds
+PACO RABANNE,https://productimages.hepsiburada.net/s/11/375/8966613893170.jpg,price,Price ($),49.0,10,Oriental fragrance,30,W,Olympea
+JIMMY CHOO,https://images.ulta.com/is/image/Ulta/2574763_prod_altimg_1?op_sharpen=1&resMode=bilin&qlt=85&wid=800&hei=800&fmt=jpg,price,Price ($),45.0,9,Floral fragrance,40,W,I Want Choo
+MUGLER,https://productimages.hepsiburada.net/s/35/375/10486576218162.jpg,price,Price ($),57.0,10,Fresh fragrance,30,W,Alien
+GUCCI,https://productimages.hepsiburada.net/s/7/375/9097267085362.jpg,price,Price ($),48.0,9,Woody fragrance,30,W,Rush
+PACO RABANNE,https://productimages.hepsiburada.net/s/2/500/9566766301234.jpg,price,Price ($),49.0,10,Floral fragrance,30,W,Lady Million
+ROBERTO CAVALLI,https://productimages.hepsiburada.net/s/7/375/9107458818098.jpg,price,Price ($),32.99,10,Oriental fragrance,75,W,Roberto Cavalli
+ARMANI,https://productimages.hepsiburada.net/s/23/375/10051279650866.jpg,price,Price ($),53.0,7,Oriental fragrance,50,W,She
+CALVIN KLEIN,https://productimages.hepsiburada.net/s/7/375/9049695420466.jpg,price,Price ($),26.99,10,Floral fragrance,100,W,Eternity Moment
+GUCCI,https://productimages.hepsiburada.net/s/11/375/9097267576882.jpg,price,Price ($),63.0,9,Floral fragrance,50,W,Bamboo

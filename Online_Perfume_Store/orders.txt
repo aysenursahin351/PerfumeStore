@@ -1,0 +1,6 @@
+1,DIOR,70.0,1.0,woody,60,M,SAUVAGE,70.0,alper,Cavitpasa caddesi,987654321,5432775991,2021-06-21 21:47:28
+2,DIOR,70.0,1.0,woody,60,M,SAUVAGE,HUGO BOSS,44.9,1.0,oriental,75,M,Boss Bottled Night,114.9,alper,Cavitpasa caddesi,987654321,5432775991,2021-06-21 21:48:49
+3,DIOR,70.0,1.0,woody,60,M,SAUVAGE,70.0,alper,Cavitpasa caddesi,987654321,5432775991,2021-06-21 21:49:00
+4,DIOR,70.0,1.0,woody,60,M,SAUVAGE,CHANEL,81.0,1.0,floral,90,M,BLUE DE CHANEL,HUGO BOSS,44.9,1.0,oriental,75,M,Boss Bottled Night,RALPH LAUREN,42.9,1.0,aromatic,100,M,Polo,238.79999,alper,Cavitpasa caddesi,987654321,5432775991,2021-06-21 22:07:37
+5,CAROLINA HERRERA,52.0,1.0,Oriental fragrance,30,W,Good Girl,52.0,alper,Cavitpasa caddesi,987654321,5432775991,2021-06-21 22:41:31
+6,GUCCI,48.0,1.0,Woody fragrance,30,W,Rush,JIMMY CHOO,45.0,1.0,Floral fragrance,40,W,I Want Choo,93.0,alper,Cavitpasa caddesi,987654321,5432775991,2021-06-21 23:41:01
