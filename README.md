@@ -9,7 +9,7 @@ complained items. In addition, the admin also manages the stock.
 
 Code Structure
 Classes are designed in accordance with the object oriented programming rules as
-suggested to us. We have 29 classes in total. 10 classes that we use to show screens are
+suggested. This project has 29 classes in total. 10 classes that i use to show screens are
 (LoginScreen, UserDetailsScreen, ComplainScreen, PerfumeListScreen, ReceiptScreen,
 AlphabeticalScreen, AdminScreen, BasketScreen, AddItemScreen, SignUpScreen) all
 extends from the Screen class which is JPanel class. CheckoutPopup, PerfumeThumbnail
